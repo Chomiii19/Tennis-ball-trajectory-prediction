@@ -1,0 +1,6 @@
+.venv/
+yolov5s.pt
+yolov8x.pt
+runs/
+training/
+models/
